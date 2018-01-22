@@ -16,5 +16,5 @@ Shift + Enter to run individual cells.
 
 Plotly images are interactive.
 
-
+The input files in formats *.h5 and *.txt can be found on pure. The *.h5 files are the standard outputs of EMsoft (https://github.com/marcdegraef/EMsoft)  
 
