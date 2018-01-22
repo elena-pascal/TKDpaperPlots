@@ -1,6 +1,6 @@
 Python jupyter notebooks used for the plots in the TKD paper. Notebook names correspond to the the Figure number. 
 
-# Requirements:
+### Requirements:
  > Python 2.7 or greater
 
  > Anaconda OR 
@@ -9,7 +9,7 @@ Python jupyter notebooks used for the plots in the TKD paper. Notebook names cor
 
  > Account on plotly (plot.ly) website. The notebooks require acces to plotly libraries. 
 
-# Run (start a kernel) with:
+### Run (start a kernel) with:
   `$ jupyter notebook`
 
 `Shift` + `Enter` to run individual cells.
