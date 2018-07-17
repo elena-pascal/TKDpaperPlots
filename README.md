@@ -1,4 +1,4 @@
-Python jupyter notebooks used for the plots in the TKD paper (DOI: 10.1016/j.ultramic.2018.01.003). Notebook names correspond to the the Figure numbers. 
+Python jupyter notebooks used for the plots in the TKD paper (https://doi.org/10.1016/j.ultramic.2018.01.003). Notebook names correspond to the the Figure numbers. 
 
 ### Requirements:
  * Python 2.7 or greater
